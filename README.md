@@ -26,13 +26,14 @@ An end-to-end RoBERTa ensemble pipeline for social media text, covering collecti
 **[TPC — Two-Phase Classification](https://github.com/wenyenhsu/classification-method-for-imbalanced-data-using-two-phase-cost-sensitive-svm-and-genetic-algorithm)**  
 A classification method for imbalanced data using two-phase cost-sensitive SVM and a genetic algorithm.
 
-### Tech Stacks
+### Skills
 
-- **Programming & Scripting:** Python, Java, SQL, JavaScript, Bash, PowerShell
-- **AI & Machine Learning:** PyTorch, TensorFlow, scikit-learn, NLP, LLM fine-tuning, RAG, model evaluation, prompt engineering
-- **Applications & Data:** Django, PostgreSQL, Hadoop, Ollama
-- **Infrastructure & Development:** Docker, Git, Linux, VMware, MLOps
-- **Visualization & Industrial Systems:** Matplotlib, Seaborn, Tableau, Power BI, Ignition SCADA, HighByte
+- **Generative AI & LLM:** LLM fine-tuning, RAG, model evaluation, prompt engineering, MCP, VLM embeddings, agentic AI
+- **ML & Analytics:** NLP, TensorFlow, PyTorch, scikit-learn, Seaborn, Tableau, MLOps
+- **Data Platforms & Integration:** Data ingestion, distributed systems, Hadoop, Spark, HDFS, Kafka, Flume, NAS, HighByte
+- **Data Engineering:** ETL/ELT pipelines, data modeling, data warehousing, data quality, schema design, workflow orchestration
+- **Programming & DevOps:** Python, Java, SQL, PostgreSQL, MySQL, JavaScript, REST APIs, PowerShell, Shell, Git, Docker, Linux
+- **Virtualization & Infrastructure:** VMware ecosystem architecture, cloud optimization, big data infrastructure, AI compute rack
 
 ### Connect with me:
 
@@ -53,6 +54,10 @@ A classification method for imbalanced data using two-phase cost-sensitive SVM a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/django/django-plain.svg" alt="Django" title="Django" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/hadoop/hadoop-original.svg" alt="Hadoop" title="Hadoop" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="Apache Spark" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42" />
